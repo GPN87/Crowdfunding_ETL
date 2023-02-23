@@ -5,6 +5,7 @@ This repository contains a jupyter notebook file that steps through an 'Extract,
 2. The dataframes are cleaned, restructured and transformed into separate dataframes for each object we want to represent in a database. 
 3. The dataframes are written to .csv.
 4. An Entity Relationship Diagram is drawn (as below) and the tables are loaded into PostgreSQL. The database schema is at 'crowdfunding_db_scheme.sql'
+
 ![entity relationship diagram](crowdfunder-ERD.png)
 
 ## Access and usage
